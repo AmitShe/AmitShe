@@ -6,6 +6,7 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%234853D.svg"  align="left">
   <img alt="MONGODB" src="https://img.shields.io/badge/mongodb-%23323330.svg" align="left"/>
   <img alt="Scala" src="https://img.shields.io/badge/scala-orange" align="left"/>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amit-sheffer) 
 <!--
 **AmitShe/AmitShe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
